@@ -5,7 +5,7 @@
 
 
 <h4 align='center'>✯ Demo Bot ✯<br></h4>
-<h3 align='center' ><b><a href="https://telegram.me/CapXBot">¢αρтισи вσт</a></b></h3>
+<h3 align='center' ><b><a href="https://telegram.me/iFilms_Botz">¢αρтισи вσт</a></b></h3>
 
 
 ###  Config Vars :
@@ -35,4 +35,4 @@
 ```
 
 
-- [© Avishkar Patil](https://github.com/avipatilpro)
+- [© iFilms Studios](https://github.com/iFilms_Owner)
