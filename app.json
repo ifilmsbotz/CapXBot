@@ -9,7 +9,7 @@
   ],
   "success_url": "https://telegram.com/ifilmsbotz",
   "website": "https://github.com/ifilmsbotz/Caption-Bot",
-  "repository": "https://github.com/ifilmsbotz/Caption-Botqqq",
+  "repository": "https://github.com/ifilmsbotz/CapXBot",
   "logo": "https://telegra.ph/file/a3e95bf96275cb37844b1.jpg",
   "env": {
     "WEBHOOK": {
