@@ -33,33 +33,33 @@ __ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ғᴏʀ ᴀ ᴄʜᴀɴɴᴇ
       ABOUT_TEXT = """
 📕 **𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
 
-__○ ᴍʏ ɴᴀᴍᴇ : [CapXbot](https://t.me/Avishkarpatil)__
+__○ ᴍʏ ɴᴀᴍᴇ : [CapXbot](https://t.me/iFilms_Owner)__
 __○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ __
 __○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ __
 __○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ __
 __○ ᴠᴇʀsɪᴏɴ : 2.0.1__
-__○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
+__○ ᴄʀᴇᴀᴛᴏʀ :  @iFilms_Owner__
  
-**[© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/Avishkarpatil)**
+**[© iFilms_Owner](https://t.me/iFilms_Owner)**
 """
 
       MARKDOWN_TEXT = """
 🔰 <u>𝐀𝐛𝐨𝐮𝐭 𝐌𝐚𝐫𝐤𝐝𝐨𝐰𝐧</u>
 👉 <b>Bold text</b>
-🔸 <code>**Avishkar**</code>
+🔸 <code>**iFilms_Owner**</code>
 
 👉 <b>Italic text</b>
-🔹 <code>__Avishkat__</code> 
+🔹 <code>__iFilms_Owner__</code> 
 
 👉 <b>Code text</b>
-🔸 <code>`Avishkar`</code>   
+🔸 <code>`iFilms_Owner`</code>   
 
 👉 <b>Hyperlink text</b>
-🔹 <code>[hyperlink_text](https://avipatilweb.me)</code> 
+🔹 <code>[hyperlink_text](https://iFilms_Owner.me)</code> 
 
 〰〰〰〰〰〰〰〰〰〰
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/iFilms_Owner">© iFilms Owner</a></b>
 """
 
 # Bot status display
@@ -72,7 +72,7 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/iFilms_Owner">© iFilms Owner</a></b>
 """
 
 
@@ -81,7 +81,7 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 ○ <b> I Am Available Open Source on Github 
       Click Below Link And Deploy Me Now </b>
 
-○ <i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://github.com/avipatilpro/Caption-Bot">On Heroku</a></b>    
+○ <i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://t.me/iFilms_Owner">On Heroku</a></b>    
 
-○ <i>SOURCE</i> : <b><a href="https://github.com/avipatilpro/Caption-Bot">Caption Bot</a></b>  
+○ <i>SOURCE</i> : <b><a href="https://t.me/iFilms_Owner">Caption Bot</a></b>  
 """
