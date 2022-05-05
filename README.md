@@ -17,14 +17,10 @@
 
 ### Deploy :
 
-- Fork This Repo
-- Without Any Changes Click Below Button 
-- Deploy This Repo
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/ifilmsbotz/Caption-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/ifilmsbotz/Caption-Botqqq">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
