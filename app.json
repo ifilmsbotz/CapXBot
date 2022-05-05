@@ -39,7 +39,7 @@
     },
     "ADMIN_USERNAME": {
       "description": "Admin username without [@], Default will be Ts_bots",
-      "value": "AvishkarPatil", 
+      "value": "iFilms_Owner", 
       "required": false
     }        
     
